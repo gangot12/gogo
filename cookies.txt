@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lnk.to	TRUE	/	FALSE	1999999999	LF_session_4d159d4da68fedf90a703353620dc769	1
+
